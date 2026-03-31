@@ -11,7 +11,7 @@ Session Management — Auto-logout after 15 minutes of inactivity
 
 
 # Video Demo
-Watch the full installation walkthrough and project demo here:
+Watch the full installation walkthrough and project demo here:https://www.youtube.com/watch?v=0ZYgv6LvNlY&t=2s
 
 
 # Prerequisites
